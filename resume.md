@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Visiting Scholar in KU
 
 ## Education
 
